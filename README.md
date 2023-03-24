@@ -14,6 +14,8 @@ A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning w
 
 ## Citation
 
+If you find it useful, please cite the paper as:
+
 ```
 @article{pramanik2023memory,
   title={Memory-efficient model-based deep learning with convergence and robustness guarantees},
