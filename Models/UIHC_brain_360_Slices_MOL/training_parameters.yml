@@ -1,0 +1,51 @@
+!!python/object/apply:collections.OrderedDict
+- - - training_epochs
+    - 100
+  - - learning_rate
+    - 0.001
+  - - learning_rate_lam
+    - 1
+  - - number_of_feature_filters
+    - 64
+  - - number_of_layers
+    - 5
+  - - input_channels
+    - 1
+  - - output_channels
+    - 1
+  - - lam_itr
+    - 100
+  - - lam_init
+    - 100
+  - - cgIter_itr
+    - 5
+  - - cgIter_init
+    - 50
+  - - learning_rate_lipschitz
+    - 1.0
+  - - clip_wt
+    - 1.0e-06
+  - - eps
+    - 0.01
+  - - alpha
+    - 0.01
+  - - lip_thresh
+    - 0.98
+  - - lip_eps
+    - 0.001
+  - - restore
+    - false
+  - - restore_dir
+    - Fastmri_1_Sub_1_Slices_MoDL_1itr
+  - - restore_model
+    - model-1000.pth.tar
+  - - save_model_every_N_epochs
+    - 20
+  - - num_sl
+    - 360
+  - - start_sl
+    - 0
+  - - acc
+    - 6.0
+  - - path
+    - Data/
