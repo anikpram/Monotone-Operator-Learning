@@ -10,7 +10,7 @@ A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning w
 
 ## Demo Code on Google Colab
 
-A shorter version of code is also provided for reproducibility purposes. Please check out our demo code on [Google Colab](https://colab.research.google.com/drive/1VnMbVW7roOkY_wjpUXUxhNli3BHjwWJB).
+A demo code is also provided for reproducibility purposes. Please check it out on [Google Colab](https://colab.research.google.com/drive/1VnMbVW7roOkY_wjpUXUxhNli3BHjwWJB).
 
 ## Instructions for Running the Code
 
