@@ -7,6 +7,32 @@ Computational imaging has been revolutionized by compressed sensing algorithms, 
 
 A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning with convergence and robustness guarantees", IEEE Transactions on Computational Imaging, 2023. [IEEE Xplore](https://ieeexplore.ieee.org/document/10059176), [ArXiv version](https://arxiv.org/pdf/2206.04797.pdf)
 
+
+## Demo Code on Google Colab
+
+A shorter version of code is also provided for reproducibility purposes. Please check out our demo code on [Google Colab](https://colab.research.google.com/drive/1VnMbVW7roOkY_wjpUXUxhNli3BHjwWJB).
+
+## Instructions for Running the Code
+
+* Clone the repository.
+* Set the conda environment.
+* Carefully, set the parameters in the training script ```trn_mol.py```
+* Run the training script using the command: ```python trn_mol.py```
+* Once training is finished, perform inference using the testing script ```tst_mol.py```
+
+### Environment
+
+The code has been run on an Nvidia A-100 GPU. The libraries used and their corresponding versions are: 
+
+* Python 3.9
+* cudatoolkit 11.3.1
+* numpy 1.22
+* matplotlib 3.6.2
+* scipy 1.7.3
+* tqdm 4.64.0
+* h5py 3.8.0
+
+
 ## MOL-LR Results for Parallel MRI Recovery
 
 ![PMRI](pmri.gif)
