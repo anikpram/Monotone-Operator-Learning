@@ -9,3 +9,4 @@ A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning w
 
 ## MOL-LR for Parallel MRI Recovery
 
+![PMRI](pmri.gif)
