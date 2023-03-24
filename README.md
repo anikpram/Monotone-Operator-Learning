@@ -7,3 +7,5 @@ Computational imaging has been revolutionized by compressed sensing algorithms, 
 
 A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning with convergence and robustness guarantees", IEEE Transactions on Computational Imaging, 2023. [IEEE Xplore](https://ieeexplore.ieee.org/document/10059176), [ArXiv version](https://arxiv.org/pdf/2206.04797.pdf)
 
+## MOL-LR for Parallel MRI Recovery
+
