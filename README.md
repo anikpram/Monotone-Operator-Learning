@@ -1,1 +1,1 @@
-# Monotone-Operator-Learning
+# Monotone-Operator-Learning (MOL)
