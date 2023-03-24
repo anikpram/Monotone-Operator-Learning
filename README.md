@@ -10,3 +10,16 @@ A Pramanik, MB Zimmerman, M Jacob, "Memory-efficient model-based deep learning w
 ## MOL-LR Results for Parallel MRI Recovery
 
 ![PMRI](pmri.gif)
+
+
+## Citation
+
+```
+@article{pramanik2023memory,
+  title={Memory-efficient model-based deep learning with convergence and robustness guarantees},
+  author={Pramanik, Aniket and Zimmerman, M Bridget and Jacob, Mathews},
+  journal={IEEE Transactions on Computational Imaging},
+  year={2023},
+  publisher={IEEE}
+}
+```
